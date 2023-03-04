@@ -1,0 +1,12 @@
+C:\Users\Misha\RiderProjects\mishaganin-2\Lab4\Banks\bin\Debug\net6.0\Banks.deps.json
+C:\Users\Misha\RiderProjects\mishaganin-2\Lab4\Banks\bin\Debug\net6.0\Banks.dll
+C:\Users\Misha\RiderProjects\mishaganin-2\Lab4\Banks\bin\Debug\net6.0\Banks.pdb
+C:\Users\Misha\RiderProjects\mishaganin-2\Lab4\Banks\obj\Debug\net6.0\Banks.csproj.AssemblyReference.cache
+C:\Users\Misha\RiderProjects\mishaganin-2\Lab4\Banks\obj\Debug\net6.0\Banks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misha\RiderProjects\mishaganin-2\Lab4\Banks\obj\Debug\net6.0\Banks.AssemblyInfoInputs.cache
+C:\Users\Misha\RiderProjects\mishaganin-2\Lab4\Banks\obj\Debug\net6.0\Banks.AssemblyInfo.cs
+C:\Users\Misha\RiderProjects\mishaganin-2\Lab4\Banks\obj\Debug\net6.0\Banks.csproj.CoreCompileInputs.cache
+C:\Users\Misha\RiderProjects\mishaganin-2\Lab4\Banks\obj\Debug\net6.0\Banks.dll
+C:\Users\Misha\RiderProjects\mishaganin-2\Lab4\Banks\obj\Debug\net6.0\refint\Banks.dll
+C:\Users\Misha\RiderProjects\mishaganin-2\Lab4\Banks\obj\Debug\net6.0\Banks.pdb
+C:\Users\Misha\RiderProjects\mishaganin-2\Lab4\Banks\obj\Debug\net6.0\ref\Banks.dll

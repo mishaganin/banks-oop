@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJhRwbEDDrT2p7EU9J6WdyhUe4iirHpJBaptxczDsG9CB2ZXwr7xKkTRHP3JJmdXf1ib9aCaRFRBArly4zHdgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Misha\\RiderProjects\\mishaganin\\Lab4\\Banks\\Banks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Misha\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\Misha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Misha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Misha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
